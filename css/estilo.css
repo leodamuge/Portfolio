@@ -105,6 +105,7 @@ https://www.tooplate.com/view/2120-ben-resume
     font-weight: var(--font-weight-light);
     letter-spacing: 0.3px;
     line-height: 2em;
+    text-align: justify;
   }
 
   .section-padding {
