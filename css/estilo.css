@@ -615,3 +615,10 @@ https://www.tooplate.com/view/2120-ben-resume
       padding: 0.3rem 2rem 0.6rem 2rem;
     }
   }
+
+  .img3{
+    width: 350px;
+    height:350px;
+    border: 2px solid;
+    border-color: #000000;
+  }
